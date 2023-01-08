@@ -1,0 +1,13 @@
+.weather {
+    /* background: radial-gradient(circle, rgba(62,205,224,1) 0%, rgba(35,40,48,1) 30%); */
+}
+
+/* 
+.weather::before {
+    content: "";
+    position: absolute;
+    background-color: aqua;
+    inset: 0;
+    filter: blur(5px);
+    z-index: 0;
+} */
